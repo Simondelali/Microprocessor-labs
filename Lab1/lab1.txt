@@ -1,0 +1,13 @@
+Basic Commands to know;
+Int
+pinMode (OUTPUT, INPUT)
+digitalWrite(HIGH, LOW)
+Delay (In milliseconds)
+
+MAIN WORK
+1.	Using Tinkercad connect an Arduino to three LEDs, Red, Green and Yellow. Connect a resistor of 220 Ohms to each LED. Make sure the Cathode (Negative pin) of the LED is connected to ground. The Anode connects to the resistor. Compose a simple program to light them up in a pattern using Arduino’s digital output.
+
+2.	Using Tinkercad connect an Arduino to six LEDs (two of each colour connected in parallel), Red, Green and Yellow. Connect a resistor of 220 Ohms to the LEDs. Make sure the Cathode (Negative pin) of the LED is connected to ground. The Anode connects to the resistor. Compose a simple program to light them up in a pattern using Arduino’s digital output. Let red LED blink for 5 seconds, the yellow for 2 seconds and the green for 3 seconds.
+
+Try work 
+Using Tinkercad connect an Arduino to a 3 buzzers using resistors. Compose a single program using 3 different tones for the buzzer.
